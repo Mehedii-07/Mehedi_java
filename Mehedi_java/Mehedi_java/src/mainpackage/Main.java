@@ -9,13 +9,12 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-<<<<<<< Updated upstream
 
-=======
+
 //Mehedi
 
 // mehedi madarchod hai 
->>>>>>> Stashed changes
+
 /**
  *
  * @author Elitebook 830
